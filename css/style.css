@@ -4,15 +4,6 @@ body {
 
 /* CONTENT - MAIN */
 
-#flickr_photos img {
-   padding-right: 0.5em;
-   padding-bottom: 0.3em;
-}
-
-.daybox {
-   margin-top: 2em;
-}
-
 .dayTitle {
    border-top: 1px solid #ddd;
 }
@@ -69,6 +60,12 @@ ul.presentationLinks li {
     text-align: justify;
     margin: 1em;
 }
+
+.s1 {font-size:80%;}
+.s2 {font-size:100%;}
+.s3 {font-size:120%;}
+.s4 {font-size:140%;}
+.s5 {font-size:160%;}
 
 #sidebar_content li {
     list-style-type: none;
@@ -163,7 +160,7 @@ span.setup {
   float: right;
 }
 #searchForm #search-btn {
-  color: #393939;
+  color: #428bca;
   font-size: 15px;
   font-weight: 600;
   position: absolute;
@@ -174,11 +171,11 @@ span.setup {
 }
 #searchForm #search-btn:hover,
 #searchForm #search-btn:focus {
-  color: #fff;
+  color: #428bca;
   outline: none;
 }
 #searchForm .form-control {
-  background: #4e4e4e;
+  background: #646464;
   width: 210px;
   border: 1px solid #363636;
   color: #000000;
