@@ -90,9 +90,9 @@
 					  	<div class="panel-body">
 							<a name="comment-form"></a>	
 						#if( $cform.error )
-							<span class="error">$cform.message</span>
+							<div class="alert alert-danger">$cform.message</div>
 						#elseif( !$cform.error && !$utils.isEmpty($cform.message) )
-							<span class="status">$cform.message</span>
+							<div class="alert alert-success">$cform.message</div>
 						#end
 		
 						<form method="post" action="$url.entry($entry.anchor)" focus="name" 
@@ -105,11 +105,11 @@
 							  	</div>
 							  	<div class="form-group col-lg-4">
 									<label for="input2">$text.get( "macro.weblog.email" )</label>
-									<input type="text" name="name" class="form-control" value="$cform.email" id="input2" required="">
+									<input type="text" name="email" class="form-control" value="$cform.email" id="input2" required="">
 							  	</div>
 							  	<div class="form-group col-lg-4">
 									<label for="input3">$text.get( "macro.weblog.url" )</label>
-									<input type="text" name="name" class="form-control" value="$cform.url" id="input3">
+									<input type="text" name="url" class="form-control" value="$cform.url" id="input3">
 							  	</div>
 							  	#if ($config.commentEmailNotify)
 							  	<div class="form-group col-lg-6">
