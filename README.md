@@ -37,8 +37,3 @@ Developers
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gauravsaini03/roller-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gauravsaini03/roller-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
