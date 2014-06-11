@@ -151,9 +151,6 @@
        </templateCode>
     </template>
     
-    <resource path="images/faux-columns-950.png" />
-    <resource path="images/background-950x250.png" />
-	
     <resource path="css/font-awesome.min.css" />
     <resource path="css/bootstrap.css" />
     <resource path="css/style.css" />
