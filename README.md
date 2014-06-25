@@ -33,7 +33,7 @@ Please file your enhancements and bugs report at <a href="https://github.com/gau
 Developers
 ==========
 
-<a href="http://gauravsaini.tumblr.com">Gaurav Saini</a> (gauravsaini03-at-gmail)
+<a href="http://gauravsaini.me">Gaurav Saini</a> (gauravsaini03-at-gmail)
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gauravsaini03/roller-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
