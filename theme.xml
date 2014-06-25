@@ -4,7 +4,8 @@
    <!-- Bootstrap based Roller theme -->
     
     <id>gaurav</id>
-    <name>gaurav</name>
+    <name>Gaurav</name>
+    <description>Responsive Bootstrap-based theme using modern HTML5 and CSS3 design by &lt;a href="http://gauravsaini.me/">Gaurav Saini&lt;/a>.</description>
     <author>Gaurav Saini</author>
     <type>standard</type>
     
