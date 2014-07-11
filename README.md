@@ -25,6 +25,8 @@ Clone the theme into your roller/themes folder
 
 For Adding your custom css to the theme, you can add styles in Design > Stylesheet section in admin.
 
+<b>Also, Now Included in Roller 5.1</b>
+
 Ideas and Bug Reports
 =====================
 
